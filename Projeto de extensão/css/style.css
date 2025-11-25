@@ -1,0 +1,13 @@
+/* Importação dos arquivos CSS modulares */
+@import url('global.css');
+@import url('header.css');
+@import url('introducao.css');
+@import url('objetivo.css');
+@import url('metodologia.css');
+@import url('municipios.css');
+@import url('resultados.css');
+@import url('relatorios.css');
+@import url('conclusao.css');
+@import url('equipe.css');
+@import url('referencias.css');
+@import url('footer.css');
