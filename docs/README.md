@@ -8,7 +8,7 @@ Apresentado no: **XIII Encontro Unificado de Ensino, Pesquisa e Extensão da UFP
 
 O portal reúne informações institucionais, objetivos, metodologia, resultados esperados, relatórios e materiais derivados das atividades realizadas no âmbito do projeto, oferecendo uma visualização integrada dos dados e ações desenvolvidas.
 
-> **Link para a versão online (GitHub Pages):** https://joaoboscoduarte.github.io/ENEXExtensaoODS/
+> **Link para a versão online (GitHub Pages):** https://academicouf.github.io/extensaoODSVM/
 
 ## Detalhes do projeto
 
