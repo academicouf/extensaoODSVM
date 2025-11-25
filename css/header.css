@@ -1,0 +1,96 @@
+/* Estilização do cabeçalho */
+#topo {
+    background-color: var(--cor-primaria); /*Definindo fundo*/
+    color: white;
+    padding: 15px 0;                       /* Definindo espaço nas laterais */
+    position: fixed;
+    top: 0;
+    width: 100%;                           /* 100% da largura do container */
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+#topo .container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#topo .logo-title {
+    display:flex;
+    align-items: center;
+    gap: 15px;
+
+    img {
+        height: 40px;
+
+        &:first-child {
+            margin-right: 5px;
+        }
+    }
+
+    h1 {
+        font-size: 1.2rem;
+        font-weight: 600;
+        line-height: 1.3;
+    }
+}
+
+#topo nav {
+    ul {
+        display: flex;
+        list-style: none;
+        gap: 25px;
+        flex-wrap: wrap;
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+        font-weight: 500;
+        transition: color 0.3s;
+
+        &:hover {
+            color: #3498db;
+        }
+    }
+}
+
+/* Media queries para dispositivos móveis */
+@media (max-width: 768px) {
+    #topo {
+        padding: 10px 0;
+    }
+
+    #topo .container {
+        flex-direction: column;
+        gap: 15px;
+        padding: 0 15px;
+    }
+
+    #topo .logo-title {
+        gap: 10px;
+
+        img {
+            height: 30px;
+        }
+
+        h1 {
+            font-size: 1rem;
+            text-align: center;
+        }
+    }
+
+    #topo nav ul {
+        gap: 15px;
+        justify-content: center;
+
+        li a {
+            font-size: 0.9rem;
+        }
+    }
+}

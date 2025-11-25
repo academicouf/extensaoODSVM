@@ -1,0 +1,137 @@
+/* Estilo da seção relatórios */
+#relatorios {
+    padding: 60px 20px;
+    background-color: #f8f9fa;
+
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    h2 {
+        font-size: 2.5rem;
+        text-align: center;
+        margin-bottom: 40px;
+        color: var(--cor-primaria);
+    }
+
+    article {
+        p {
+            font-size: 1.2rem;
+            text-align: center;
+            margin-bottom: 30px;
+            color: #333;
+        }
+
+        .controles-relatorio {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+
+            .seletor-municipio {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                gap: 10px;
+
+                label {
+                    font-weight: 600;
+                    color: var(--cor-primaria);
+                }
+
+                select {
+                    padding: 10px 15px;
+                    border: 2px solid #ddd;
+                    border-radius: 8px;
+                    font-size: 1rem;
+                    min-width: 200px;
+                    background-color: white;
+
+                    &:focus {
+                        border-color: var(--cor-primaria);
+                        outline: none;
+                    }
+                }
+            }
+
+            .seletor-tipo {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                gap: 10px;
+
+                > label {
+                    font-weight: 600;
+                    color: var(--cor-primaria);
+                }
+
+                .radio-group {
+                    display: flex;
+                    gap: 20px;
+
+                    input[type="radio"] {
+                        margin-right: 5px;
+                    }
+
+                    label {
+                        font-size: 1rem;
+                        color: #333;
+                        cursor: pointer;
+                        display: flex;
+                        align-items: center;
+                    }
+                }
+            }
+        }
+
+        .viewer-container {
+            background-color: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+
+            .placeholder {
+                padding: 100px 20px;
+                text-align: center;
+                color: #666;
+                font-size: 1.1rem;
+                background-color: #f8f9fa;
+            }
+
+            .erro-container {
+                padding: 60px 20px;
+                text-align: center;
+                background-color: #fff3cd;
+                border: 1px solid #ffeaa7;
+
+                p {
+                    color: #856404;
+                    margin-bottom: 20px;
+                    font-size: 1.1rem;
+                }
+
+                .btn-link {
+                    display: inline-block;
+                    background-color: var(--cor-primaria);
+                    color: white;
+                    padding: 12px 24px;
+                    border-radius: 8px;
+                    text-decoration: none;
+                    font-weight: 600;
+                    transition: background-color 0.3s;
+
+                    &:hover {
+                        background-color: #34495e;
+                    }
+                }
+            }
+
+            iframe {
+                border: none;
+                width: 100%;
+            }
+        }
+    }
+}

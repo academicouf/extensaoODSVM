@@ -1,0 +1,85 @@
+{
+  "municipios": [
+    {
+      "nome": "Baía da Traição",
+      "area_km2": 102.756,
+      "populacao_2022": 9224,
+      "uf": "PB",
+      "maps": "https://maps.app.goo.gl/URH5XAJcQJF7YpBM6",
+      "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Foto_da_Costa_da_Cidade_Baia_da_Trai%C3%A7%C3%A3o-PB.jpg/330px-Foto_da_Costa_da_Cidade_Baia_da_Trai%C3%A7%C3%A3o-PB.jpg",
+      "sobre": "Baía da Traição é um município litorâneo do litoral norte paraibano, marcado por forte presença e identidade indígena. É reconhecido como um dos principais territórios Potiguara do Brasil, onde tradições, cultura e modos de vida originários permanecem intensos e visíveis no cotidiano. A paisagem combina praias, aldeias indígenas e áreas naturais preservadas."
+    },
+    {
+      "nome": "Cuité de Mamanguape",
+      "area_km2": 107.68,
+      "populacao_2022": 6251,
+      "uf": "PB",
+      "maps": "https://maps.app.goo.gl/oWChVrZZprw6tXc5A",
+      "foto": "https://live.staticflickr.com/1966/44447168644_7ca33ac3f3_b.jpg",
+      "sobre": "Cuité de Mamanguape é um município localizado no Vale do Mamanguape, com características rurais marcantes e forte ligação com comunidades tradicionais. Parte de seu território integra áreas indígenas Potiguara. A economia é baseada principalmente na agricultura familiar."
+    },
+    {
+      "nome": "Curral de Cima",
+      "area_km2": 86.428,
+      "populacao_2022": 5254,
+      "uf": "PB",
+      "maps": "https://maps.app.goo.gl/7FvoFF33zyLoBNCVA",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgm-3NYcc4cTiCYIaJuuBHQAI6f1zTn253vg&s",
+      "sobre": "Curral de Cima é um pequeno município rural do Vale do Mamanguape, com forte presença da agricultura familiar e baixa densidade populacional. Mantém vínculos culturais e sociais com comunidades tradicionais da região."
+    },
+    {
+      "nome": "Itapororoca",
+      "area_km2": 145.807,
+      "populacao_2022": 18382,
+      "uf": "PB",
+      "maps": "https://maps.app.goo.gl/2oDxNx68i5P4GxfZA",
+      "foto": "https://www.itapororoca.pb.gov.br/storage/content/noticias/coronavirus-covid-19/1287/destaque/img_202103270933YgdP.jpeg",
+      "sobre": "Itapororoca é um município de porte médio e vocação agrícola, com crescente expansão urbana. Possui forte ligação comercial com Mamanguape e cidades vizinhas, mantendo uma identidade cultural própria."
+    },
+    {
+      "nome": "Jacaraú",
+      "area_km2": 256.845,
+      "populacao_2022": 14477,
+      "uf": "PB",
+      "maps": "https://maps.app.goo.gl/3K7uyaRyFGz5uHew7",
+      "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Igreja_Matriz_de_Nossa_Senhora_da_Concei%C3%A7%C3%A3o%2C_Jacara%C3%BA%2C_PB_-_panoramio.jpg/330px-Igreja_Matriz_de_Nossa_Senhora_da_Concei%C3%A7%C3%A3o%2C_Jacara%C3%BA%2C_PB_-_panoramio.jpg",
+      "sobre": "Jacaraú é um importante centro urbano do extremo norte da Paraíba, atuando como polo regional de comércio e serviços. Articula comunidades rurais, áreas agrícolas e vínculos com territórios indígenas."
+    },
+    {
+      "nome": "Mamanguape",
+      "area_km2": 337.434,
+      "populacao_2022": 44599,
+      "uf": "PB",
+      "maps": "https://maps.app.goo.gl/45YAVcsai4KZ39Uw9",
+      "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/DSC_0001_Coreto_-_centro_de_Mamanguape.jpg/330px-DSC_0001_Coreto_-_centro_de_Mamanguape.jpg",
+      "sobre": "Mamanguape é o maior e mais influente município do Vale do Mamanguape, atuando como polo institucional, econômico e cultural. Possui áreas urbanas consolidadas e intensa presença indígena Potiguara em seu território."
+    },
+    {
+      "nome": "Marcação",
+      "area_km2": 122.665,
+      "populacao_2022": 8999,
+      "uf": "PB",
+      "maps": "https://maps.app.goo.gl/d5nWHJejPhNgGGw2A",
+      "foto": "https://s2-g1.glbimg.com/U0cCNM24rQ8DuFeHz2f010IdMNQ=/0x0:1274x897/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/z/G/R1q7tMSLeADqQkq0DKLQ/praia-de-coqueirinho-marcacao-paraiba-panoramio-1.jpg",
+      "sobre": "Marcação é um município litorâneo de forte presença indígena Potiguara, com diversas aldeias distribuídas em seu território. A economia local envolve pesca artesanal e atividades ligadas ao extrativismo e ao litoral."
+    },
+    {
+      "nome": "Mataraca",
+      "area_km2": 182.439,
+      "populacao_2022": 8244,
+      "uf": "PB",
+      "maps": "https://maps.app.goo.gl/fVzdxNiqvha7KD6q6",
+      "foto": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/07/ff/bf/rn-vista-do-alto-um-verdadeiro.jpg?w=400&h=300&s=1",
+      "sobre": "Mataraca está localizado no extremo norte da Paraíba, com economia baseada em agricultura, pesca e atividades industriais. O território combina áreas costeiras, reservas ambientais e presença indígena."
+    },
+    {
+      "nome": "Pedro Régis",
+      "area_km2": 74.216,
+      "populacao_2022": 5766,
+      "uf": "PB",
+      "maps": "https://maps.app.goo.gl/2D3BXSLd2jsQqBbb6",
+      "foto": "https://live.staticflickr.com/2934/14409235350_6606771448_b.jpg",
+      "sobre": "Pedro Régis é um município pequeno e interiorano, de origem recente, com economia baseada na agricultura familiar. Mantém vínculos econômicos e sociais fortes com Mamanguape e Jacaraú."
+    }
+  ]
+}

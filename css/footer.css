@@ -1,0 +1,78 @@
+/* Estilo do rodapé */
+footer {
+    background-color: var(--cor-primaria);
+    color: white;
+    padding: 40px 20px;
+    margin-top: 60px;
+
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    .footer-content {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+
+        .projeto-info {
+            h3 {
+                font-size: 1.3rem;
+                line-height: 1.4;
+                margin-bottom: 15px;
+                font-weight: 600;
+            }
+
+            p {
+                font-size: 1rem;
+                line-height: 1.5;
+                margin-bottom: 8px;
+
+                strong {
+                    font-weight: 600;
+                }
+            }
+        }
+
+        .evento-info {
+            padding: 20px;
+            background-color: rgba(255,255,255,0.1);
+            border-radius: 10px;
+
+            p {
+                font-size: 0.95rem;
+                line-height: 1.5;
+                margin-bottom: 8px;
+
+                strong {
+                    font-weight: 600;
+                }
+            }
+        }
+
+        .logos-footer {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 30px;
+            flex-wrap: wrap;
+
+            img {
+                height: 50px;
+                transition: transform 0.3s;
+
+                &:hover {
+                    transform: scale(1.1);
+                }
+            }
+        }
+    }
+
+    @media (min-width: 768px) {
+        .footer-content {
+            .logos-footer {
+                justify-content: space-around;
+            }
+        }
+    }
+}
